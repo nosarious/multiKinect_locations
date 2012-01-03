@@ -81,7 +81,6 @@
     <ClInclude Include="..\..\..\addons\ofxKinect\src\ofxKinectPlayer.h">
       <Filter>addons\ofxKinect\src</Filter>
     </ClInclude>
-    <ClInclude Include="src\Particle.h" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="addons">
