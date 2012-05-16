@@ -1,4 +1,4 @@
-MultiKinect Locations is the start of a project ot allow people to use multiple kinects for installations. For our purposes the kinects were hung above the projection space, pointing downwards, and identifying where people were along the wall. Our system used 6 kinects to get coverage over a thirty foot distance, between 4080 pixels wide (triplehead2go on macbook) and 5760 (direct video feeds from a desktop computer system)
+MultiKinect Locations is the start of a project to allow people to use multiple kinects for installations. For our purposes the kinects were hung above the projection space, pointing downwards, and identifying where people were along the wall. Our system used 6 kinects to get coverage over a thirty foot distance, between 4080 pixels wide (triplehead2go on macbook) and 5760 (direct video feeds from a desktop computer system)
 
 Due to the nature of the usb requirements for kinects, the macbook could only ever see two devices. The desktop system was able to work with the complete 6. We discovered that each kinect needs it's own controller for the usb. Our desktop had three on the motherboard, and an additional three usb3 pci cards.
 
